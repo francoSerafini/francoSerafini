@@ -36,7 +36,7 @@ Tecnologías utilizadas: React, Redux Toolkit, Css, Javascript, Node.js, Postgre
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link al deploy
 </a>
-</br></br>
+</br>
 <img src ='./images/eCommerce home.jpg' width="333" height="205">
 <img src ='./images/eCommerce home2.jpg' width="333" height="205">
 <img src ='./images/eCommerce catalogo.jpg' width="333" height="205">
