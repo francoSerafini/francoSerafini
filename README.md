@@ -37,11 +37,13 @@ Tecnologías utilizadas: React, Redux Toolkit, Css, Javascript, Node.js, Postgre
       Link al deploy
 </a>
 </br>
-<img src ='./images/eCommerce home.jpg' width="333" height="205">
-<img src ='./images/eCommerce home2.jpg' width="333" height="205">
-<img src ='./images/eCommerce catalogo.jpg' width="333" height="205">
-<img src ='./images/eCommerce search.jpg' width="333" height="205">
-<img src ='./images/eCommerce dashboard.jpg' width="333" height="205">
+<div align="row" >
+      <img src ='./images/eCommerce home.jpg' width="333" height="205">
+      <img src ='./images/eCommerce home2.jpg' width="333" height="205">
+      <img src ='./images/eCommerce catalogo.jpg' width="333" height="205">
+      <img src ='./images/eCommerce search.jpg' width="333" height="205">
+      <img src ='./images/eCommerce dashboard.jpg' width="333" height="205">
+</div>
 
 
 
