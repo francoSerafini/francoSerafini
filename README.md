@@ -32,7 +32,7 @@ Es una simple page aplication basada en compra y venta de productos de computaci
 
 Tecnologías utilizadas: React, Redux Toolkit, Css, Javascript, Node.js, PostgreSQL, Trello, Git Hub, Sequelize, Node.
 
-<a href="https://6evi.duckdns.org:1337/](https://tecnomerch.christianvillegas.com/">
+<a href="https://tecnomerch.christianvillegas.com/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link al deploy
 </a>
